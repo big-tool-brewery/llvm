@@ -1,0 +1,4 @@
+[submodule "tools/clang"]
+	path = tools/clang
+	url = git://github.com/big-tool-brewery/clang.git
+	branch = release_34_btb
