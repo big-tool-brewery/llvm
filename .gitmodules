@@ -2,3 +2,7 @@
 	path = tools/clang
 	url = git://github.com/big-tool-brewery/clang.git
 	branch = release_34_btb
+[submodule "projects/compiler-rt"]
+	path = projects/compiler-rt
+	url = git://github.com/llvm-mirror/compiler-rt.git
+	branch = release_34
